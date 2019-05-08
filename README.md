@@ -6,7 +6,7 @@ As we welcome in a new era of marketing, many companies (Netflix, target, Amazon
 *Note: Considering the time frame for this project, I will only be focusing on a marketing campeign specifically targeting Kansas Home Depot customers. This approach can then be expanded to account for the entire US for real world application.*
 
 References: 
-https://www.kwch.com/weather/alerts/
-https://www.trustpilot.com/review/www.homedepot.com?page=1
-https://www.homedepot.com/l/KS
+https://www.kwch.com/weather/alerts/ ,
+https://www.trustpilot.com/review/www.homedepot.com?page=1 ,
+https://www.homedepot.com/l/KS ,
 https://en.wikipedia.org/wiki/List_of_Kansas_locations_by_per_capita_income
